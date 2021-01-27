@@ -1,2 +1,2 @@
-# coursera_data
-# These are data files for coursera, not the actual project notebooks.
+### coursera_data
+### Data files for notebooks related to Coursera Python for Data Science.
